@@ -1,0 +1,15 @@
+{
+	"server":
+	{
+		"name": "Hermes Test Server",
+		"url": "https://localhost"
+	},
+	"language": "en-US",
+	"feature":
+	{
+		"information": "basic"
+	},
+	"plugin":
+	[
+	]
+}
